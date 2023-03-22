@@ -19,5 +19,6 @@
 }
 
 button {
+  margin: 5px;
   min-width: 80px;
 }
